@@ -1,0 +1,4 @@
+Venkat,Venkat,venkat@gmail.com,1234567899,125635678745,venkat,800
+kv,kv,kv@gmail.com,1234567899,123456789987,kv,1300
+krish,krish,krish@gmail.com,1234567899,123456789198,krish,500
+John,john,john@gmail.com,1234567899,123456789876,john,800

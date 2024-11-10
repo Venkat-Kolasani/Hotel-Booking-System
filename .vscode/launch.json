@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/venkat/Library/CloudStorage/OneDrive-Personal/Desktop/SRM copy/OOPS with C++/HBS2",
+      "program": "/Users/venkat/Library/CloudStorage/OneDrive-Personal/Desktop/SRM copy/OOPS with C++/HBS2/build/Debug/outDebug"
+    }
+  ]
+}

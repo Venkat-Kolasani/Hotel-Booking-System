@@ -1,0 +1,15 @@
+503,0,Suite
+403,1,Suite
+303,0,Suite
+301,0,Standard
+102,0,Deluxe
+401,0,Standard
+302,1,Deluxe
+203,0,Suite
+502,0,Deluxe
+402,0,Deluxe
+103,1,Suite
+202,0,Deluxe
+501,0,Standard
+201,0,Standard
+101,0,Standard
