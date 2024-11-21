@@ -71,6 +71,7 @@ Before you begin, ensure you have met the following requirements:
    ./hotel_booking_system
 
 ## Acknowledgements 
+- This project was developed as a part of the End Semester Project for course "C++" at the University.
 - **Mentorship**: Special thanks to our Faculty Advisor, Ms. Veda Sri Mam,Department of Computer Science & Engineering, SRM University,Andhra pradesh, for her kind help and for giving me the necessary guidance and valuable suggestions in completing this project work.
 - **Collaborators**: 
   - **Kolasani Venkat** 
