@@ -76,7 +76,6 @@ Before you begin, ensure you have met the following requirements:
 - **Collaborators**: 
   - **Kolasani Venkat** 
   - **M. Jogith** 
-  - **Ghanta Suhruth** 
 - **Inspirations**: Inspired by various open-source hotel management systems and loyalty program implementations and other C++ Projects and C++ Books.
 
 ## License
